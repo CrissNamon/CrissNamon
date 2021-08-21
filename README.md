@@ -20,7 +20,7 @@ My name is Danila, I'm IT student from Kuban State University, Krasnodar, Russia
     + Simple SPring Boot service with Google OAuth authorization without libraries, just WebFlux
     + https://github.com/CrissNamon/spring-google-oauth
 + SOLDEEA
-    + Custom symmetric algorithm based on diphantine equations
+    + Custom symmetric encryption algorithm based on diphantine equations
     + https://github.com/CrissNamon/soldeea
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=crissnamon&title_color=0074D9&text_color=E5C07B&icon_color=2ECC40&border_color=30363D&bg_color=161B22&show_icons=true&cache_seconds=1800&locale=ru&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true"/>
