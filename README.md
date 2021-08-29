@@ -11,7 +11,7 @@ My name is Danila, I'm IT student from Kuban State University, Krasnodar, Russia
 + [Android audiobook player](https://github.com/CrissNamon/AndroidAudiobookPlayer)
     > Android app to listen audiobooks online. User can: view all books, search books, listen books in background, save books to favourites
 + [Spring Google OAuth](https://github.com/CrissNamon/spring-google-oauth)
-    > Simple SPring Boot service with Google OAuth authorization without libraries, just WebFlux
+    > Simple Spring Boot service with Google OAuth authorization without libraries, just WebFlux
 + [SOLDEEA](https://github.com/CrissNamon/soldeea)
     > Custom symmetric encryption algorithm based on diophantine equations
 <br>
