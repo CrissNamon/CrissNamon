@@ -2,6 +2,8 @@
 My name is Danila, I'm IT student from Kuban State University, Krasnodar, Russia.
 <br>I'm a Junior Java Developer interested in backend and Android development.
 <br>I don't have a commercial experience, but I work on my own projects:
++ FeelMe
+    > FeelMe is android app, which lets two users to connect their WearOS watches and send vibrations to each other with one tap. Project contains: [Server](https://github.com/CrissNamon/feelme-server) (Spring Boot), Client (Android)
 + RUVIK Messenger
     > RUVIK is android messenger, which uses my custom end-to-end encryption protocol. It consists of 3 parts: [Server](https://github.com/CrissNamon/ruvik-server) (Spring Boot), [Client](https://github.com/CrissNamon/ruvikclient) (Android), [Encryption protocol (Ruvik Proto)](https://github.com/CrissNamon/ruvik-proto-java).
 + [REST service for sending data to clients](https://github.com/CrissNamon/rest-messaging-templates)
