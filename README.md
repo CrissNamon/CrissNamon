@@ -14,5 +14,7 @@ My name is Danila, I'm IT student from Kuban State University, Krasnodar, Russia
     > Simple Spring Boot service with Google OAuth authorization without libraries, just WebFlux
 + [SOLDEEA](https://github.com/CrissNamon/soldeea)
     > Custom symmetric encryption algorithm based on diophantine equations
++ [Geolocation Utils](https://github.com/CrissNamon/geolocation-utils)
+    > Small library to preform operations with geolocation: QTH, distances, paths
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=crissnamon&title_color=0074D9&text_color=E5C07B&icon_color=2ECC40&border_color=30363D&bg_color=161B22&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true"/>
