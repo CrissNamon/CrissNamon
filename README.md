@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Danila, I'm IT student from Kuban State University, Krasnodar, Russia.
 <br>I'm a Junior Java Developer interested in backend and Android development.
-<br>I don't have a commercial experience, but I work on my own projects:
+<br>I don't have a commercial experience, but I work on my own projects
+<!--
 + FeelMe
     > FeelMe is an android app, which lets two users to connect their WearOS watches and send vibrations to each other with one tap. Project contains: [Server](https://github.com/CrissNamon/feelme-server) (Spring Boot), Client (Android)
 + RUVIK Messenger
@@ -16,5 +17,6 @@ My name is Danila, I'm IT student from Kuban State University, Krasnodar, Russia
     > Custom symmetric encryption algorithm based on diophantine equations
 + [Geolocation Utils](https://github.com/CrissNamon/geolocation-utils)
     > Small library to preform operations with geolocation: QTH, distances, paths
+-->
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=crissnamon&title_color=0074D9&text_color=E5C07B&icon_color=2ECC40&border_color=30363D&bg_color=161B22&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true"/>
