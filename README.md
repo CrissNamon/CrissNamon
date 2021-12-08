@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Danila, I'm IT student from Kuban State University, Krasnodar, Russia.
-<br>I'm a Junior Java Developer interested in backend and Android development.
+<br>I'm a Junior Java Developer interested in backend and game development.
 <br>I don't have a commercial experience, but I work on my own projects
 <!--
 + FeelMe
