@@ -1,7 +1,11 @@
 ### Hi there 👋
-My name is Danila, I'm IT student from Kuban State University, Krasnodar, Russia.
+My name is Danila.
 <br>I'm a Junior Java Developer interested in backend and game development.
-<br>I don't have a commercial experience, but I work on my own projects
+<br>
+### Contact me
+📧 Email: [danilarassokhin@gmail.com](mailto:danilarassokhin@gmail.com)
+<br>📑 LinkedIn [Danila Rassokhin](https://www.linkedin.com/in/danilarassokhin/)
+<br>📱 Telegram: [@RassokhinD](https://t.me/RassokhinD)
 <!--
 + FeelMe
     > FeelMe is an android app, which lets two users to connect their WearOS watches and send vibrations to each other with one tap. Project contains: [Server](https://github.com/CrissNamon/feelme-server) (Spring Boot), Client (Android)
