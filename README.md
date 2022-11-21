@@ -1,8 +1,6 @@
 ### Hi there 👋
 My name is Danila.
 <br>I'm a Junior Java Developer interested in backend and game development.
-<br>
-Some of my projects published via organization account [@HiddenPrj](https://github.com/HiddenPrj)
 ### Contact me
 📧 Email: [danilarassokhin@gmail.com](mailto:danilarassokhin@gmail.com)
 <br>📑 LinkedIn: [Danila Rassokhin](https://www.linkedin.com/in/danilarassokhin/)
