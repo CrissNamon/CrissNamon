@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Danila.
-<br>I'm a Junior Java Developer interested in backend and game development.
+<br>I'm a Java Developer with experience in developing customer products and billing systems with out-of-the-box thinking. Open Source enthusiast and fan of game development.
 ### Contact me
 📧 Email: [danilarassokhin@gmail.com](mailto:danilarassokhin@gmail.com)
 <br>📑 LinkedIn: [Danila Rassokhin](https://www.linkedin.com/in/danilarassokhin/)
