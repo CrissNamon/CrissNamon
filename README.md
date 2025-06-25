@@ -2,12 +2,12 @@
 My name is Danila.
 <br>I'm Java/Kotlin developer with a track record of enhancing application performance and optimizing development processes for greater efficiency. I specialize in leveraging Camunda to deliver robust business process automation solutions that drive operational efficiency and accelerate project delivery. I also enjoy sharing knowledge through technical articles on Medium and mentoring junior developers, fostering a growth-oriented environment
 <br>
-<br>Programming languages: Java, Kotlin
-<br>Frameworks: Spring Boot, Hibernate, JOOQ, Camunda, MyBatis
-<br>Databases and platforms: Postgres, ClickHouse, Apache Kafka, Elasticsearch, Redis, S3
-<br>Tools: Docker, CI/CD, Apache Avro, Jasper Reports, Flyway, Liquibase
-<br>System design: Microservices, REST API, Gateway, Reactive, LDAP, gRPC
-<br>Languages: English (B2), Russian (native)
+<br><b>Programming languages:</b> Java, Kotlin
+<br><b>Frameworks:</b> Spring Boot, Hibernate, JOOQ, Camunda, MyBatis
+<br><b>Databases and platforms:</b> Postgres, ClickHouse, Apache Kafka, Elasticsearch, Redis, S3
+<br><b>Tools:</b> Docker, CI/CD, Apache Avro, Jasper Reports, Flyway, Liquibase
+<br><b>System design:</b> Microservices, REST API, Gateway, Reactive, LDAP, gRPC
+<br><b>Languages:</b> English (B2), Russian (native)
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ### Contact me
